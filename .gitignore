@@ -43,3 +43,15 @@ typechain
 cache
 yarn.lock
 .secret
+
+node_modules
+.env
+coverage
+coverage.json
+typechain
+
+#Hardhat files
+cache
+artifacts
+yarn.lock
+debug.log
