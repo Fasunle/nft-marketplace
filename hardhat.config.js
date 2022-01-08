@@ -9,9 +9,11 @@ module.exports = {
     },
     mainnet: {
       url: ``,
+      accounts: [privateKey],
     },
     ropsten: {
       url: ``,
+      accounts: [privateKey],
     },
   },
   solidity: "0.8.4",
